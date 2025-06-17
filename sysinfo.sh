@@ -9,7 +9,7 @@ echo -e "${RED}Kernel${NC}"
 uname -sr
 echo ""
 
-#Kernel
+#CPU Arch
 echo -e "${RED}Arch${NC}"
 uname -m
 echo ""
